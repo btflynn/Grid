@@ -1,4 +1,4 @@
 Grid
 ====
 
-Rough grid system to refine.
+Rough responsive fluid grid system to refine.
