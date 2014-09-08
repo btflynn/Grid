@@ -1,6 +1,7 @@
-SASS-ish Grid
-=============
+Simple SASS Grid
+================
 
-A rough-hewn responsive fluid grid system.
-Uses pixel-based padding for grid gutter spacing and percentage widths.
+A rough-hewn responsive fluid grid system which uses percentage-width columns and pixel-based padding gutters. 
+
+Grid mixin updates column widths at specified breakpoints.
 
