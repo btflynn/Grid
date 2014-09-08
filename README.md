@@ -1,4 +1,6 @@
-Grid
-====
+SASS-ish Grid
+=============
 
-Rough responsive fluid grid system to refine.
+A rough-hewn responsive fluid grid system.
+Uses pixel-based padding for grid gutter spacing and percentage widths.
+
