@@ -88,12 +88,6 @@ $grid-gutter: 20px;
     float: none;
   }
 }
-.grid {
-  > div {
-    text-align: center;
-    color: white;
-  }
-}
 
 // Hide medium/smallview-visible by default
 .mediumview-visible, .smallview-visible {
@@ -112,4 +106,12 @@ $grid-gutter: 20px;
 /* Small View Columns */
 @include breakpoint(small) {
   @include grid(small, purple, tan);
+}
+
+// Demo style
+.grid {
+  > div {
+    text-align: center;
+    color: white;
+  }
 }
